@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates the framework for the metadata to be tracked. Once that is complete, you can make your first commit!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is where you can define which items should be added to the next commit, whereas the working directory shows everything as it is.
